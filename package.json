@@ -1,0 +1,22 @@
+{
+  "name": "hybrid-app",
+  "version": "1.0.0",
+  "description": "node.js, express, jade, request",
+  "main": "app.js",
+  "scripts": {
+    "test": "cucumber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komalKaur/hybrid-app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "komal kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalKaur/hybrid-app/issues"
+  },
+  "homepage": "https://github.com/komalKaur/hybrid-app"
+}
