@@ -15,6 +15,12 @@
   ],
   "author": "komal kaur",
   "license": "ISC",
+  
+  "devDependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "request": "^2.55.0"
+  }
   "bugs": {
     "url": "https://github.com/komalKaur/hybrid-app/issues"
   },
