@@ -4,7 +4,8 @@
   "description": "node.js, express, jade, request",
   "main": "app.js",
   "scripts": {
-    "test": "cucumber.js"
+    "test": "cucumber.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,12 +16,12 @@
   ],
   "author": "komal kaur",
   "license": "ISC",
-  
+
   "devDependencies": {
     "express": "^4.12.3",
     "jade": "^1.9.2",
     "request": "^2.55.0"
-  }
+  },
   "bugs": {
     "url": "https://github.com/komalKaur/hybrid-app/issues"
   },
